@@ -86,6 +86,7 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+.venv/
 
 # Spyder project settings
 .spyderproject
@@ -99,3 +100,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Node.js
+node_modules/
+
+# webpack result
+static/
+
+# config
+config.py
