@@ -101,6 +101,9 @@ ENV/
 # mypy
 .mypy_cache/
 
+# Pycharm
+.idea/
+
 # Node.js
 node_modules/
 
