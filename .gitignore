@@ -107,8 +107,5 @@ ENV/
 # Node.js
 node_modules/
 
-# webpack result
-static/
-
 # config
 config.py
