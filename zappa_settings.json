@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "ap-northeast-2",
+        "profile_name": "default",
+        "s3_bucket": "react-tutorial"
+    }
+}
